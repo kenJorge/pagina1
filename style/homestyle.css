@@ -1,0 +1,29 @@
+div{
+    margin: 25px;
+}
+h1{
+    padding: 25px;
+    text-align: center;
+    color: #c95454;  
+}
+p{
+    padding: 25px;
+    text-align: center;
+    border-radius: 25px;
+    border-color: rgb(31, 30, 29);
+    width: 30%;
+    height: 250px;
+    margin: 5%;
+    background-color: rgb(47, 218, 161);
+    overflow: scroll;
+}
+.izq{
+    background-color: rgb(21, 175, 175);
+    color: rgb(22, 24, 24);
+    float: left;
+}
+.der{
+    background-color: rgb(174, 174, 221);
+    color: rgb(163, 112, 211);
+    float: right;
+}
